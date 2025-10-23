@@ -20,15 +20,15 @@ It’s a *PartyRock-built LLM assistant* that generates compelling, brand-authen
 
 *Figure 1: Botanical Bloom assistant layout on AWS PartyRock*
 
-
-https://partyrock.aws/u/Prosper13/Z6YIJOafg/Botanical-Bloom%3A-Organic-Beauty-Copywriting-Assistant
-
-*Link to the LLM*
-
 1. Fill in product details (brand name, ingredients, benefits, etc.)
 2. Select your tone of voice (herbal, warm, scientific, etc.)
 3. Choose output style — *product description*, *social caption*, *blog*, etc.
 4. Generate refined, natural-sounding skincare copy instantly.
+
+
+https://partyrock.aws/u/Prosper13/Z6YIJOafg/Botanical-Bloom%3A-Organic-Beauty-Copywriting-Assistant
+
+*Link to the LLM*
 
 ## 🌸 Impact
 
