@@ -2,7 +2,7 @@
 
 ## 🧠 Problem
 
-Small and medium skincare brands often struggle to craft **consistent, emotionally resonant, and SEO-rich** copy that reflects their organic values. Hiring a professional copywriter for every product or post is costly — and generic AI tools lack brand sensitivity.
+Small and medium organic skincare brands often struggle to craft **consistent, emotionally resonant, and SEO-rich** copy that reflects their organic values. Hiring a professional copywriter for every product or post is costly — and generic AI tools lack brand sensitivity if the user is not a good prompt engineer.
 
 ## 🌿 Solution
 
@@ -20,8 +20,13 @@ It’s a *PartyRock-built LLM assistant* that generates compelling, brand-authen
 
 *Figure 1: Botanical Bloom assistant layout on AWS PartyRock*
 
+
+https://partyrock.aws/u/Prosper13/Z6YIJOafg/Botanical-Bloom%3A-Organic-Beauty-Copywriting-Assistant
+
+*Link to the LLM*
+
 1. Fill in product details (brand name, ingredients, benefits, etc.)
-2. Select your tone of voice (luxurious, gentle, scientific, etc.)
+2. Select your tone of voice (herbal, warm, scientific, etc.)
 3. Choose output style — *product description*, *social caption*, *blog*, etc.
 4. Generate refined, natural-sounding skincare copy instantly.
 
