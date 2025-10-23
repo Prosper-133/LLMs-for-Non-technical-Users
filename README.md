@@ -16,6 +16,8 @@ It’s a *PartyRock-built LLM assistant* that generates compelling, brand-authen
 
 ## 💧 How It Works
 
+<img width="1905" height="878" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/905be4ad-6ee5-45c8-a114-bfa4ee7c5c4a" />
+
 1. Fill in product details (brand name, ingredients, benefits, etc.)
 2. Select your tone of voice (luxurious, gentle, scientific, etc.)
 3. Choose output style — *product description*, *social caption*, *blog*, etc.
