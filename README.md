@@ -26,9 +26,8 @@ It’s a *PartyRock-built LLM assistant* that generates compelling, brand-authen
 4. Generate refined, natural-sounding skincare copy instantly.
 
 
-https://partyrock.aws/u/Prosper13/Z6YIJOafg/Botanical-Bloom%3A-Organic-Beauty-Copywriting-Assistant
+[Link To Website](https://partyrock.aws/u/Prosper13/Z6YIJOafg/Botanical-Bloom%3A-Organic-Beauty-Copywriting-Assistant)
 
-*Link to the LLM*
 
 ## 🌸 Impact
 
